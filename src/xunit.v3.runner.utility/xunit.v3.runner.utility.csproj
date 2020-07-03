@@ -43,4 +43,8 @@
     <Reference Include="System.Web" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Frameworks\v3\" />
+  </ItemGroup>
+
 </Project>
